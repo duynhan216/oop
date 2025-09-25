@@ -3,7 +3,8 @@
 /build/
 */.gradle
 */build/
-
+/HW2/
+/HW3/
 # Ignore Gradle GUI config
 gradle-app.setting
 
